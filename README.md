@@ -8,7 +8,7 @@ An interactive Power BI project built to analyze Swiggy performance across three
 ## Dashboard Screenshots
 
 ### 1. Performance Overview
-![Swiggy Performance Overview](screenshots/1 overview.png)
+![Swiggy Performance Overview](screenshots/overview.png)
 
 This page summarizes business performance with KPI cards, monthly revenue trends, top cities by revenue, and average food price by food category.
 
@@ -23,7 +23,7 @@ This page summarizes business performance with KPI cards, monthly revenue trends
 - Average food price by category: Non-veg **₹231.83**, Veg **₹182.12**, Other **₹18.72**
 
 ### 2. Customer Segment Analysis
-![Swiggy Customer Analysis](screenshots/2 customer.png)
+![Swiggy Customer Analysis](screenshots/customer-analysis.png)
 
 This page explores customer demographics and order/revenue patterns by age group, gender, and occupation.
 
@@ -37,7 +37,7 @@ This page explores customer demographics and order/revenue patterns by age group
 - Orders by occupation and gender
 
 ### 3. Restaurant Performance Analytics
-![Swiggy Restaurant Analysis](screenshots/3 restaurant.png)
+![Swiggy Restaurant Analysis](screenshots/restaurant-performance.png)
 
 This page compares restaurant and cuisine performance using revenue, ratings, and city-level visuals.
 
